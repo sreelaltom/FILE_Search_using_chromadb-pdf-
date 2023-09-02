@@ -37,7 +37,7 @@ pip install streamlit pdfplumber chromadb
 3. **Run the Application:**
 
 ```
-streamlit run chroma_pdf_search.py
+streamlit run "chroma_pdf_search.py"
 
 ```
 
