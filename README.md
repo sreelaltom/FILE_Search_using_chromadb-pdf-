@@ -4,7 +4,6 @@
 
 Chroma Pdf Search is a Python application built with Streamlit that allows users to upload PDF files, extract text from them, and search for specific data within the PDFs. It utilizes the `pdfplumber` library for PDF text extraction and the `chromadb` library for creating a searchable database of extracted text.
 
-![Chroma Pdf Search](screenshot.png)
 
 ## Author
 
