@@ -11,8 +11,10 @@ Chroma Pdf Search is a Python application built with Streamlit that allows users
 - [Sreelal S S](https://github.com/sreelaltom?tab=repositories)
 
 ## streamlit output look
-![image](https://github.com/sreelaltom/sreelal/assets/121371200/f0b80895-75e3-422d-908b-4c36671bda4b)
+![Screenshot 2023-09-02 211721](https://github.com/sreelaltom/titianic_prediction/assets/121371200/8ae3445f-3450-433e-9137-d4c662594dd2)
 
+## Demo video
+![video](https://github.com/sreelaltom/titianic_prediction/assets/121371200/4ecb9608-f3ea-4feb-93d3-d0b7def3ded3)
 
 ## Features
 
